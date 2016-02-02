@@ -1,2 +1,8 @@
-Git is a distributed version control system.
-Git is free software.
+init:
+add Filename:
+commit -m "destription":
+status:
+diff:
+log --pretty=oneline: 
+reset --hard HEAD^/commit id
+reflog:
